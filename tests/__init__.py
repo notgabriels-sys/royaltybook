@@ -1,0 +1,1 @@
+"""Royaltybook test package."""
