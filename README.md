@@ -128,6 +128,8 @@ Royaltybook uses Python’s standard library only at runtime. It has no network,
 
 ---
 
+---
+
 <!-- funnel-footer -->
 Part of the Gabriel Tools + Code catalog — [browse all tools, products, repositories, and services](https://gabriel-tools-and-code.notgabriels960914.chatgpt.site/).
 
